@@ -1,1 +1,2 @@
-  vbgtfr565"# noted-app" 
+  "Teddy Note app" Second Year Second Semester MAD project
+ 
